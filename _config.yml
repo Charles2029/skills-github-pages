@@ -1,0 +1,47 @@
+theme: minima
+# 网站基本信息
+title: charles Jia | 賈學習
+email: aloopday@gmail.com
+author: Charles
+description: >- # 网站描述
+  这里是网站的描述，可以写多行。
+ 
+# 网站高级配置
+google_analytics: G-XXXXXXXXXX
+ 
+# 页面布局
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+ 
+# 分类 & 标签
+taxonomies:
+  category: categories
+  tag: tags
+ 
+# 搜索引擎优化
+seo:
+  image:
+    author: your_author_image.jpg
+    social: your_social_image.jpg
+  title:
+    separator: " | "
+ 
+# 社交媒体链接
+social:
+  - title: github
+    url: https://github.com/username
+  - title: twitter
+    url: https://twitter.com/username
+ 
+# 集成插件
+plugins:
+  - jekyll-feed
+ 
+# 高级配置
+markdown: GFM
+highlighter: rouge
+permalink: /:title/
