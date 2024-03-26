@@ -15,7 +15,7 @@
  
 ## 重要链接
  
-- [賈學習的YouTube频道]([https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw](https://www.youtube.com/@CharlesJia))
+- [賈學習的YouTube频道](https://www.youtube.com/@CharlesJia)
 - [賈學習的Twitter](https://twitter.com/love98982016)
 - [賈學習的GitHub](https://github.com/Charles2029)
  
